@@ -1,4 +1,4 @@
-debathena-aclocal (1.1.3) UNRELEASED; urgency=low
+debathena-aclocal (1.1.3-0debathena1) UNRELEASED; urgency=low
 
   [ Jonathan Reed ]
   * Switch from control.in to control (Trac: #561)
