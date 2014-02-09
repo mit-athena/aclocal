@@ -1,3 +1,9 @@
+debathena-aclocal (1.1.4-0debathena1) unstable; urgency=low
+
+  * Confirm to Debathena VERSION specification.
+
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 09 Feb 2014 01:27:52 -0500
+
 debathena-aclocal (1.1.3-0debathena1) unstable; urgency=low
 
   [ Jonathan Reed ]
